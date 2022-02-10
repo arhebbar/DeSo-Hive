@@ -80,7 +80,7 @@ export default function Landing(props) {
         <div className='sub'>
           <p>
             <strong>DeSo Hive</strong> is the starter pack for DeSo creators
-            enabling users to write rich content threads, mass follow and unfollow creators and many more!
+            enabling users to write rich content threads, mass follow and unfollow creators, mass sell creator coins and much more!
           </p>
 
           <div className='get-started'>
@@ -96,9 +96,7 @@ export default function Landing(props) {
           <center>
             {" "}
             <small className='text-center'>
-              <b>Note</b>: DeSo Hive was made during DeSo Miami hackathon in
-              limited time constraints. Features like post editing and
-              scheduling is in progress and you may encounter some bugs{" "}
+              <b>Note</b>: DeSo Hive was initiated during the DeSo Miami hackathon and more features are being added post the hackathon by some smart devs.{" "}
             </small>
           </center>
         </div>
